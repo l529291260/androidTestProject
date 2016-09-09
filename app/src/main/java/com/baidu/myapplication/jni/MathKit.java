@@ -8,9 +8,9 @@ package com.baidu.myapplication.jni;
  */
 public class MathKit {
 
-    public static native int square(int num);
-
-    static {
-        System.loadLibrary("JniDemo");
-    }
+//    public static native int square(int num);
+//
+//    static {
+//        System.loadLibrary("JniDemo");
+//    }
 }
